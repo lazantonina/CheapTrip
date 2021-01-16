@@ -27,7 +27,4 @@ public class MainPageTests extends TestBase {
         assert mainPage.isLanguageOnPageEnglish();
     }
 
-
-
-
 }
